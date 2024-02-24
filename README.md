@@ -7,7 +7,7 @@
 [![Blog](https://img.shields.io/badge/Blog-Chinese-red)](https://zyhhhy.github.io/)
 
 
-<img align="right" alt="img" src="https://github.com/zyhhhy/zyhhhy/blob/main/WechatIMG68.jpeg" width="25%" height="auto" />
+<img align="right" alt="img" src="https://github.com/yaohaizhou/yaohaizhou/blob/main/WechatIMG68.jpeg" width="25%" height="auto" />
 
 #### 👦 Self Introduction
 
