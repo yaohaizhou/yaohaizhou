@@ -26,7 +26,7 @@ I am a CS MS graduate from UCLA with much programming experience, especially in 
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zyhhhy&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yaohaizhou&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
