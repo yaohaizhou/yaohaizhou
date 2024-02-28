@@ -32,7 +32,7 @@ I am a CS MS graduate from UCLA with much programming experience, especially in 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/UCLA_Bruins_logo.svg"></code>
+<code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/UCLA_Bruins_logo.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
