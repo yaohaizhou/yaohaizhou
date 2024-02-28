@@ -37,7 +37,7 @@ I am a CS MS graduate from UCLA with much programming experience, especially in 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/en/c/c5/Hustseals.png"></code>
+<code><img width="10%" src="https://bbs.dian.org.cn/assets/uploads/system/site-logo.gif"></code>
 <code><img width="10%" src="https://media.licdn.com/dms/image/D4E12AQHnLknj0EYfBA/article-cover_image-shrink_720_1280/0/1684267676484?e=1709769600&v=beta&t=G09Y8YDXgIw4PM6Dx6cJS0f5YovTQ5egzg1lOvbHFiI"></code>
 <code><img width="10%" src="https://techvify-software.com/wp-content/uploads/2023/12/llamaindex.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-ar21.svg"></code>
