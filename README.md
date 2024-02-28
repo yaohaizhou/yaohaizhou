@@ -39,4 +39,5 @@ I am a CS MS graduate from UCLA with much programming experience, especially in 
 <code><img width="10%" src="https://media.licdn.com/dms/image/D4E12AQHnLknj0EYfBA/article-cover_image-shrink_720_1280/0/1684267676484?e=1709769600&v=beta&t=G09Y8YDXgIw4PM6Dx6cJS0f5YovTQ5egzg1lOvbHFiI"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-ar21.svg"></code>
 </p>
