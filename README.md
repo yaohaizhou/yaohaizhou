@@ -3,8 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zyhhhy)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaohai-zhou/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zyh828482@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-English-green)](https://yaohaizhou.com/)
-[![Blog](https://img.shields.io/badge/Blog-Chinese-red)](https://zyhhhy.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-Chinese-red)](https://yaohaizhou.github.io/)
 
 
 <img align="right" alt="img" src="https://github.com/yaohaizhou/yaohaizhou/blob/main/WechatIMG68.jpeg" width="25%" height="auto" />
