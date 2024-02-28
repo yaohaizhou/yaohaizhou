@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### This is Yaohai Zhou!
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zyhhhy)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yaohaizhou)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaohai-zhou/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zyh828482@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-Chinese-red)](https://yaohaizhou.github.io/)
