@@ -13,7 +13,7 @@
 I am now a junior software engineer at Alibaba working on AI Agents. I graduated from UCLA and HUST. I want to be an expert in both artificial intelligence and software development. I have solid programming skills in Java, Python, Rust, JavaScript, TypeScript, C++, and Go. And I have hands-on experience with LangChain, LlamaIndex, FastAPI, Flask, Next.js, React.js, Vue.js, PyTorch, Docker, Nginx, Kafka, AWS, GCP, and other cloud technologies.
 
 #### 🌱 Things I am currently working on: 
-- 🔭 Work at [Alibaba](https://www.alibaba.com/) 🏢 as a software engineer 👨‍💻
+- 🔭 Work at [Alibaba](https://www.alibaba.com/) 🏢 [花名：“荷艾”] as a software engineer 👨‍💻
 - 🎯 Work as an intern in RealChar.ai. Hands-on projects are [RealChar](https://realchar.ai/) and [ReByte](https://rebyte.ai/) 🔥🔥🔥
 - 📝 Build a ChatGPT-based paper summary web application [ZipPaper](https://zippaper.org/) 🚀
 
