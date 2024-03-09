@@ -38,7 +38,7 @@ I am now a junior software engineer at Alibaba working on AI Agents. I graduated
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/en/c/c5/Hustseals.png"></code>
-<code><img width="10%" src="https://media.licdn.com/dms/image/D4E12AQHQP9J275Q_uA/article-cover_image-shrink_423_752/0/1700940849777?e=1715212800&v=beta&t=HSFBEl4x0eB558uOmcoNSOM2NWAETwgzVV6HElREKy0"></code>
+<code><img width="10%" src="https://github.com/yaohaizhou/yaohaizhou/blob/main/langchain.png"></code>
 <code><img width="10%" src="https://techvify-software.com/wp-content/uploads/2023/12/llamaindex.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-ar21.svg"></code>
 </p>
