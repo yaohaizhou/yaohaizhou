@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yaohaizhou)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaohai-zhou/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zyh828482@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-Chinese-red)](https://yaohaizhou.github.io/)
+[![中文博客](https://img.shields.io/badge/Blog-Chinese-red)](https://yaohaizhou.github.io/)
 [![技术博客](https://img.shields.io/badge/Blog-Chinese-red)](https://tech-yaohaizhou.github.io/)
 
 
@@ -15,8 +15,6 @@ I am now a junior software engineer at Alibaba working on AI Agents. I graduated
 
 #### 🌱 Things I am currently working on: 
 - 🔭 Work at [Alibaba](https://www.alibaba.com/) 🏢 [花名：“荷艾”] as a software engineer 👨‍💻
-- 🎯 Work as an intern in RealChar.ai. Hands-on projects are [RealChar](https://realchar.ai/) and [ReByte](https://rebyte.ai/) 🔥🔥🔥
-- 📝 Build a ChatGPT-based paper summary web application [ZipPaper](https://zippaper.org/) 🚀
 
 #### :muscle: Things I am challenging myself with:
 - ⏰ Waking up earlier to make good use of the day
@@ -29,9 +27,9 @@ I am now a junior software engineer at Alibaba working on AI Agents. I graduated
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yaohaizhou&show_icons=true&hide_border=true" />
 	
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/alibabagroup/alibabagroup-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/UCLA_Bruins_primary_logo.svg/2560px-UCLA_Bruins_primary_logo.svg.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
